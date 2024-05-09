@@ -2,7 +2,9 @@
 Machine coding - Design problem
 
 ## Problem Statement
+
 Design of Vaccination Appointment Booking System
+
 Assumptions:
 Vaccination centers are scattered across multiple states and districts.
 Each district can have multiple vaccination centers, each uniquely identifiable.
